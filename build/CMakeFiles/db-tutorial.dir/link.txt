@@ -1,1 +1,0 @@
-/usr/local/share/gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++     CMakeFiles/db-tutorial.dir/src/main.cpp.o  -o ../bin/db-tutorial -Wl,-rpath,/usr/local/lib /usr/local/lib/libsqlite3.so 

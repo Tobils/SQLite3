@@ -1,4 +1,4 @@
-# Install script for directory: /home/ade/Documents/widya.ai/RK3308-SPEAKER/rk3308-dev/RK3308-dev/[25] LIB SDK/[4] core/example/[1] SQLite3 example
+# Install script for directory: /home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ade/Documents/widya.ai/RK3308-SPEAKER/rk3308-dev/RK3308-dev/[25] LIB SDK/[4] core/example/[1] SQLite3 example/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

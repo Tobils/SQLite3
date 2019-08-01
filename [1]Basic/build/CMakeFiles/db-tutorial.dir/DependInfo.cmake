@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ade/Documents/widya.ai/RK3308-SPEAKER/rk3308-dev/RK3308-dev/[25] LIB SDK/[4] core/example/[1] SQLite3 example/src/main.cpp" "/home/ade/Documents/widya.ai/RK3308-SPEAKER/rk3308-dev/RK3308-dev/[25] LIB SDK/[4] core/example/[1] SQLite3 example/build/CMakeFiles/db-tutorial.dir/src/main.cpp.o"
+  "/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/src/main.cpp" "/home/ade/Documents/develope-tobil/C++/[1] SQLite3 example/SQLite3/[1]Basic/build/CMakeFiles/db-tutorial.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
