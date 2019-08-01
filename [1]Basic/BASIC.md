@@ -3,7 +3,7 @@
 ## 1. Installation
 open your terminal and type : 
 * ```sudo apt update```
-* ```sudo apt-get install libsqlite3-dev```
+* ```sudo apt-get install libsqlite3```
 
 
 ## 2. First App
